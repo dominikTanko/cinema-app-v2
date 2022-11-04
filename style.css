@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(48, 48, 48);
+  background-color: rgb(27, 31, 34);
 }
 
 H1,H2,H3,p,a {
@@ -24,11 +24,11 @@ img {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  margin: 50px;
+  margin: 40px;
 }
 
 .movie-item {
-  padding: 20px;
+  padding: 15px;
   height: 100%;
 }
 
