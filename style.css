@@ -1,5 +1,5 @@
 body {
-  background-color: black;
+  background-color: rgb(48, 48, 48);
 }
 
 H1,H2,H3,p,a {
@@ -11,7 +11,7 @@ img {
 }
 
 .movie-text {
-  color: white;
+  color: rgb(223, 254, 255);
   text-align: center;
 }
 
@@ -41,12 +41,6 @@ img {
 }
 
 .movie-card > div {
-  border:1px solid grey;
+  border:1px solid rgb(179, 179, 179);
   padding:15px;
 }
-
-/* @media (max-width: 800px) {
-  .hidden-mobile {
-    display: none;
-  }
-} */
